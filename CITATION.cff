@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the associated article."
+title: "CredFuzz-HGT"
+version: 1.0.0
+date-released: 2026-09-25
+authors:
+  - family-names: Qaffas
+    given-names: Alaa Asim
+type: software
+license: MIT
+abstract: "Reproducible implementation of a cost-sensitive fuzzy hierarchical graph Transformer for credit default prediction."

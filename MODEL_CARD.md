@@ -1,0 +1,3 @@
+# CredFuzz-HGT Model Card
+
+CredFuzz-HGT is a research model for comparative credit-default prediction. It combines fuzzy similarity edges, graph attention, repayment-sequence attention, uncertainty-conditioned fusion, and class-weighted optimization. Intended uses are reproducible methodological research, ablation analysis, and benchmark comparison. It is not validated for production underwriting, adverse-action notices, credit pricing, or autonomous eligibility decisions. Explanatory signals are model-internal importance indicators and are not causal explanations. Performance may change under temporal, institutional, and population shift.

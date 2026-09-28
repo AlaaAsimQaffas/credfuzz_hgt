@@ -1,0 +1,8 @@
+{
+  "title": "CredFuzz-HGT: Reproducible Credit Default Prediction Benchmark",
+  "upload_type": "software",
+  "description": "Leakage-controlled implementation and benchmarking suite for cost-sensitive fuzzy hierarchical graph Transformer credit default prediction.",
+  "creators": [{"name": "Qaffas, Alaa Asim", "affiliation": "University of Jeddah"}],
+  "license": "MIT",
+  "keywords": ["credit default prediction", "graph transformer", "fuzzy relations", "cost-sensitive learning", "benchmarking"]
+}
