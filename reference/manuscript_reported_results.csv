@@ -1,0 +1,4 @@
+dataset,roc_auc,roc_auc_sd,pr_auc,pr_auc_sd,minority_f1,minority_f1_sd,provenance
+Home Credit Default Risk,0.842,0.003,0.287,0.005,0.421,0.007,transcribed_from_manuscript_not_recomputed
+LendingClub Loan Data,0.891,0.004,0.731,0.006,0.684,0.006,transcribed_from_manuscript_not_recomputed
+UCI Default of Credit Card Clients,0.792,0.006,0.611,0.008,0.566,0.009,transcribed_from_manuscript_not_recomputed
