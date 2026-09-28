@@ -1,0 +1,8 @@
+dataset: lendingclub
+data_dir: data/raw/lendingclub
+output_dir: results/lendingclub
+seed: 42
+folds: 5
+validation_fraction: 0.15
+model: {hidden_dim: 128, graph_layers: 3, graph_heads: 4, temporal_layers: 2, temporal_heads: 4, feedforward_dim: 256, neighbors: 10, dropout: 0.20, rho: 0.50}
+training: {learning_rate: 0.001, weight_decay: 0.00001, batch_size: 256, epochs: 100, patience: 12, gradient_clip: 5.0, fuzzy_regularization: 0.001, num_workers: 0}
